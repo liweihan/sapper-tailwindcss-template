@@ -1,6 +1,6 @@
 # sapper-tailwindcss-template
 
-The is a fork of the default [Sapper](https://github.com/sveltejs/sapper) template, available for Rollup and webpack. It extends the default template by installing TailwindCSS, PostCSS and PurgeCSS.
+The is a fork of the default [Sapper](https://github.com/sveltejs/sapper) template, available for Rollup and webpack. It extends the default template by installing [TailwindCSS](https://tailwindcss.com/), [PostCSS](https://postcss.org/) and [PurgeCSS](https://github.com/FullHuman/purgecss).
 
 ## Getting started
 
