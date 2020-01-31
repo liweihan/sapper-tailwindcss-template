@@ -12,7 +12,7 @@ The is a fork of the default [Sapper](https://github.com/sveltejs/sapper) templa
 # for Rollup
 npx degit "vannsl/sapper-tailwindcss-template#rollup" my-app
 # for webpack
-npx degit "sveltejs/sapper-tailwindcss-template#webpack" my-app
+npx degit "vannsl/sapper-tailwindcss-template#webpack" my-app
 ```
 
 ### Using GitHub templates
